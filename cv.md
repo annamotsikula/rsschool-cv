@@ -39,3 +39,33 @@ November 2020 - May 2021
 	- Mini demo projects for exercising.
 
 See references here: <https://github.com/annamotsikula>
+
+## Skills
+
+ - Web development.
+ 		 HTML, CSS, JavaScript
+		 Typescript, Angular
+ - Other skills:
+ 		Adobe Premiere Pro
+		Adobe Photoshop
+ - Engineering:
+ 		MatLab
+		Proteus
+		AtmelStudio
+		AutoCad
+
+| Language | Level |
+| --       |-     -|
+|English| B2|
+
+
+> As a resume shows, all the skills I have, were acquired 
+> with no one’s familiarity to the technology field. 
+> 8 months ago I got interested and followed the way. 
+> I think every oportunity should be chased and used to
+> develop, improve some knowledge and skills. That's why 
+> my motto is to be always ahead despite any blockage.
+> The most enjoyable moment is when your creation is used
+> on such a large scale. That's why I want to achieve this
+> goal to be a successful web-developer. 
+
