@@ -35,7 +35,7 @@ November 2020 - May 2021
 ## Projects
 - Angular Projects:
 	- Hotel Platform (Landing Page, authorization, booking, reviews etc.) + Firebase Database
-	- COVID 19 - Tracker
+	- COVID 19 - Users tracking
 	- Mini demo projects for exercising.
 
 See references here: <https://github.com/annamotsikula>
